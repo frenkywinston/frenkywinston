@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello World! I'm Frenky Winston 👋
 
+![Frenky Winston](githud-header-banner.png)
 <!--
 **frenkywinston/frenkywinston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
