@@ -1,6 +1,6 @@
 ## Hello World! I'm Frenky Winston 👋
 
-![Frenky Winston](img/github-header-banner.png)
+![Frenky Winston](githud-header-banner.png)
 <!--
 **frenkywinston/frenkywinston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on **PT Weldbro International**
